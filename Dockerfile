@@ -1,0 +1,1 @@
+FROM drupal:7.100-php8.2-fpm-bullseye
